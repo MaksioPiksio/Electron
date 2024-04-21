@@ -1,0 +1,1 @@
+C:\Users\maksi\node_modules\electron\dist\electron.exe C:\Users\maksi\OneDrive\Dokumenty\js\Electron\tel\main.js
